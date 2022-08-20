@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 48101feded5aa3742b8890f90effb56c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pacman: {fileID: 7190839556902530720, guid: b40c70c786bdf8148a58f64532f318b2, type: 3}
+  - blinky: {instanceID: 0}
+  - clyde: {instanceID: 0}
+  - inky: {instanceID: 0}
+  - pinky: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
